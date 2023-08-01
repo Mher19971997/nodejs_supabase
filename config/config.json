@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "r22Y!Laghh9E2y-",
+    "database": "postgres",
+    "host": "db.xewuqcamjlivszmlrqsv.supabase.co",
+    "dialect": "postgres",
+    "migrationStorageTableName": "migrations"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "r22Y!Laghh9E2y-",
+    "database": "postgres",
+    "host": "db.xewuqcamjlivszmlrqsv.supabase.co",
+    "dialect": "postgres",
+    "migrationStorageTableName": "migrations"
+  }
+}
